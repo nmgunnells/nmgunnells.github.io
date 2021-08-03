@@ -6,3 +6,6 @@
 a:hover {
     color: purple;
 }
+a:after {
+    color: greenyellow;
+}
