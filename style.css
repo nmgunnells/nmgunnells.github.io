@@ -3,3 +3,6 @@
     font: bold;
     font-size: 60px;
 }
+a:hover {
+    color: purple;
+}
