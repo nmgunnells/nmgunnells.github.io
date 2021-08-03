@@ -4,8 +4,8 @@
     font-size: 60px;
 }
 a:hover {
-    color: purple;
+    color: blue;
 }
-a:after {
+a: :visited {
     color: greenyellow;
 }
