@@ -3,6 +3,7 @@ h1 {
     font-style: italic;
 }
 #Project Example {
+    color: magenta;
     font: bold;
     font-size: 60px;
 }
